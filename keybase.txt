@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/raju
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://raju.subramanian.in
+  * I am raju (https://keybase.io/raju) on keybase.
+  * I have a public key with fingerprint 5FDC EAB4 0D3B BF68 A95D  9570 1E91 B01E C5AD CC83
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011fa64c140f9c5227f66d03da710ffec3886f1c782b6bd725a405db24adedb6a00a",
+            "fingerprint": "5fdceab40d3bbf68a95d95701e91b01ec5adcc83",
+            "host": "keybase.io",
+            "key_id": "1e91b01ec5adcc83",
+            "kid": "01011fa64c140f9c5227f66d03da710ffec3886f1c782b6bd725a405db24adedb6a00a",
+            "uid": "489f3692b9eef815408f32d6f1856319",
+            "username": "raju"
+        },
+        "service": {
+            "hostname": "raju.subramanian.in",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1460582924,
+    "expire_in": 157680000,
+    "prev": "3af41dc30d5768e4517d81b6aabe3198dd1f49922afe6ecac91c495ace64af33",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSFRRFB2zfKFWUlCYYvcjhxrsnvuaeycqDAmSIiKoPpLpPPVWc2e6
+d2bKRw8JQglqekBGNEFKVPQg0hTrI7UXiQkRET0xSyIsgxopgupcKeijz87HOey9
+11pn7c2+lZfuyUlLJFaecppH89L6e47HPOvzu3PrBRQmtUKgXthCJx66lVAnGtxi
+EiEgiEAEgEFNwUARmYFVSfIzTSOiTKAfiIxRLOu6xgD26xLSEPFLKlRElSBJgYQS
+pEFRhIJPYKZVTe2IbVpRLqsygilEikhkhJimQ0MlhuoXATUA4jdWIcFYlzmxJuy4
+DG4OQYeWmWGe40Fwwt4/8P/Zd2xCTtENJmuGhAxKmQ5URdSZLBHO11VNBoYLdKht
+wRDlaBtujgk7fQLPxE1M3aG6XfxVLXNiyIYhaJnQKjMtTo/Y4WgYh7dyQE00Ggm4
+/GhtxCVspyj4WyqITIvwSXJCnNqOGbaEAOBIHDVdbaBooqpLhqT4BLojYto0aLoI
+1a/pIj/uNzTOJWXIFECwLBK3RBUV+IkOeNMQUd6OTghgimFIEmRUoxhiA2DFUCGm
+mgKZ7M7ZodussBDQuE1YzSUds9qC0ZhNhZ29NzdO9qTleDKmTHI3zJOTPe3P3q17
+mOV5U7SttH1w1u0XhXsudT8YbHo07cxM4/yq8WTBp0TexVK9Fpxr9H5+8Xi4ZOjw
+guWt8YqKk/Tb1VfPv6nKcznSh9ubYznNdkTde8y7K/dyItsTW3v/Z6oR5Tf2dp5Z
+MbddGrgKWPbHOXVXVuDdpe+6ylNzv7fPgGZq0tGGe0eGM4bJ6pbWNZfh5LaXmZUj
+d/vWtRUvKemsLy/srAq1Pss6EO+Yd8e7b/XSLyeaukKv+72WePGDVPj1U8+FsSfv
+RxfVjXRM6e5LTX9SnLHp4NsdnqmZ15OLvb7K5LVl3rNjF1Dh7LaKgtM31jTQDYnx
+weTAoaGn+ysPPqvyzk9fWNTScPPHL5GZQ88=
+=+P6L
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/raju
+
+==================================================================
